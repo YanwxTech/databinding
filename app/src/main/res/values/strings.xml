@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rvaty">RVAty</string>
+    <string name="jump">跳转至RecylerView</string>
+    <string name="update">更新数据</string>
+</resources>
